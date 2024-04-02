@@ -1,0 +1,17 @@
+import = ["~/.config/alacritty/themes/themes/gruvbox_dark.toml"]
+
+[font]
+size = 15
+
+[font.normal]
+family = "JetBrainsMono Nerd Font"
+
+[window]
+decorations = "transparent"
+# startup_mode = "SimpleFullScreen"
+startup_mode = "FullScreen"
+
+[window.padding]
+x = 10
+y = 0
+
